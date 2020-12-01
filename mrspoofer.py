@@ -3,7 +3,6 @@ from email.mime.text import MIMEText
 from emailvalidator import *
 from argsvalidator import *
 import smtplib
-import readline
 import argparse
 import getpass
 import platform
